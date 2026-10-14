@@ -1,1 +1,1 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByranV&count_private=true&include_all_commits=true&hide=stars,contributions)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByranV&count_private=true&include_all_commits=true&hide=stars,contribs)
